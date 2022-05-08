@@ -1,5 +1,5 @@
-# SPMVC-CAG
-Code of  "Scalable Partial Multi-view Clustering with Consistent Anchor Graph"
+# FIMVC-VIA
+Code of  "Fast Incomplete Multi-view Clustering with View-independent Anchors"
 
 Please run the 'run.m', and reproduce the results on 'ORL_mtv' datasets.
 
